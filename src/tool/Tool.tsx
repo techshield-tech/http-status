@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import type { ReactNode } from 'react';
-import { Button, CopyButton, Panel, Toolbar } from '../shell/ui';
+import { Button, CopyButton, Panel, Toolbar } from '@mmoall/tool-kit';
 import {
   STATUS_BY_CODE,
   STATUS_CODES,
