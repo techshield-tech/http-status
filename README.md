@@ -5,6 +5,7 @@ Look up every HTTP status code — reason phrase, class, plain-English explanati
 **Live:** https://techshield-tech.github.io/http-status/
 
 Part of [MMOALL Developer Tools](https://mmoall.com/tools).
+Also available at [mmoall.com/tools/http-status](https://mmoall.com/tools/http-status).
 
 ## Features
 
@@ -30,7 +31,6 @@ Part of [MMOALL Developer Tools](https://mmoall.com/tools).
   types, and more) that narrow down to a suggested status code.
 - All data is bundled and 100% client-side — nothing is sent over the
   network, and the tool works offline once loaded.
-- Zero runtime dependencies beyond React.
 - Responsive down to 360px viewport width.
 
 ## Embedding
